@@ -56,12 +56,15 @@
 }
 
 .subscription button{
-    margin-top: auto;
+    margin-top: auto; 
     margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 10px;
     display: block;
-    background: rgb(162, 162, 255);
+    color: #ddd;
+    background: rgb(95, 30, 252);
     font size: 20px;
-    width: 100%;
+    width: 90%;
     padding: 14px 0;
     border: 1px solid;
     border-radius: 6px;
